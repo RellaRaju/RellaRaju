@@ -5,6 +5,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RellaRaju&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RellaRaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @rellaraju's Holopin badges,](https://holopin.me/rellaraju)](https://holopin.io/@rellaraju)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RellaRaju&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
